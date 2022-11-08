@@ -1,0 +1,13 @@
+---
+label: Blog Posts
+hide_body: false
+fields:
+- type: datetime
+  name: createdAt
+  label: createdAt
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
