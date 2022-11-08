@@ -1,19 +1,4 @@
 ---
 label: About
 hide_body: false
-fields:
-- type: text
-  name: category
-  label: category
-- type: text
-  name: title
-  label: title
-- type: text
-  name: description
-  label: description
-- type: text
-  name: cover
-  label: cover
-- type: list
-  name: gallery
-  label: gallery
+fields: []
